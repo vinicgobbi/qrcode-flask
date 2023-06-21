@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
+    <title>QRCode Flask</title>
+</head>
+<body>
+    <header>QRCode Generator</header>
+    <section>
+        <img src="{{url_for('static', filename='qrcode.png')}}" alt="QR Code image">
+    </section>
+    <footer>Feito com ❤️ por Vinícius usando Flask</footer>
+</body>
+</html>

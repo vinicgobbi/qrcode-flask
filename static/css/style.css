@@ -1,0 +1,147 @@
+body{
+    background-color: #212121;
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+ 
+section{
+    background-color: #373737;
+    height: 600px;
+    margin: 30px 30px 30px 30px;
+    border-radius: 15px;
+}
+
+label{
+    margin-top: 20px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+img{
+    margin-top: 50px;
+    margin-bottom: 10px;
+    width: 450px;
+    height: 450px;
+}
+
+form, #error{
+    display: block;
+    padding-top: 10px;
+}
+
+#link, #enviar{
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: rgb(129, 23, 150);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+}
+
+#infos{
+    display: inline-block;
+    position: relative;
+    align-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+body{
+    background-color: #212121;
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+
+.link{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: inline-block;
+    border: none;
+    border-radius: 5px;
+    background-color: #3f51b5;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;    
+}
+
+.infos{
+    border-radius: 5px;
+    display: inline-block;
+    position: relative;
+    align-content: center;
+}
+
+div{
+    padding-top: 20px;
+}
+
+button{
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: brown;
+    display: inline-block;
+    position: relative;
+    align-content: center;
+}
+
+
+label{
+    display: block;
+}
+
+header{
+    padding: 20px 20px 20px 20px;
+}
+
+
+
+footer{
+    padding: 20px 20px 20px 20px;
+}
+
+img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+section{
+    background-color: #373737;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 5px;
+    border-color: blue;
+    height: 500px;
+}
+
+form{
+    padding: 10px;
+}*/
